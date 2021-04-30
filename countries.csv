@@ -1,0 +1,219 @@
+﻿Title,country id,sub_region,UN subregion
+Bolivia,BOL,Andean,Latin America and the Caribbean
+Colombia,COL,Andean,Latin America and the Caribbean
+Ecuador,ECU,Andean,Latin America and the Caribbean
+Paraguay,PRY,Andean,Latin America and the Caribbean
+Peru,PER,Andean,Latin America and the Caribbean
+Venezuela,VEN,Andean,Latin America and the Caribbean
+Australia,AUS,Australia/New Zeland,Australia and New Zealand
+New Zealand,NZL,Australia/New Zeland,Australia and New Zealand
+Austria,AUT,Austria,Western Europe
+Bahrain,BHR,Bahrain,Western Asia
+Belgium,BEL,Belgium & Luxembourg,Western Europe
+Luxembourg,LUX,Belgium & Luxembourg,Western Europe
+Brazil,BRA,Brazil,Latin America and the Caribbean
+Canada,CAN,Canada,Northern America
+Afghanistan,AFG,Eastern Europe & Central Asia,Southern Asia
+Algeria,DZA,Northern Africa,Northern Africa
+Angola,AGO,Central Africa,Sub-Saharan Africa
+Anguilla,AIA,Caribbean,Latin America and the Caribbean
+Antigua and Barbuda,ATG,Caribbean,Latin America and the Caribbean
+Armenia,ARM,Eastern Europe & Central Asia,Western Asia
+Aruba,ABW,Caribbean,Latin America and the Caribbean
+Azerbaijan,AZE,Eastern Europe & Central Asia,Western Asia
+"Bahamas, The",BHS,Caribbean,Latin America and the Caribbean
+Bangladesh,BGD,Southern Asia,Southern Asia
+Barbados,BRB,Caribbean,Latin America and the Caribbean
+Belarus,BLR,Eastern Europe & Central Asia,Eastern Europe
+Belize,BLZ,Central America,Latin America and the Caribbean
+Benin,BEN,Western Africa,Sub-Saharan Africa
+Bermuda,BMU,Caribbean,Northern America
+Bhutan,BTN,Southern Asia,Southern Asia
+Botswana,BWA,Southern Africa,Sub-Saharan Africa
+British Virgin Islands,VGB,Caribbean,Latin America and the Caribbean
+Burkina Faso,BFA,Western Africa,Sub-Saharan Africa
+Burundi,BDI,Eastern Africa,Sub-Saharan Africa
+Cabo Verde,CPV,Western Africa,Sub-Saharan Africa
+Cambodia,KHM,Southeast Asia,South-eastern Asia
+Cameroon,CMR,Central Africa,Sub-Saharan Africa
+Cayman Islands,CYM,Caribbean,Latin America and the Caribbean
+Central African Republic,CAF,Central Africa,Sub-Saharan Africa
+Chad,TCD,Central Africa,Sub-Saharan Africa
+Comoros,COM,Eastern Africa,Sub-Saharan Africa
+"Congo, Dem. Rep.",COD,Central Africa,Sub-Saharan Africa
+"Congo, Rep.",COG,Central Africa,Sub-Saharan Africa
+Cook Islands,COK,Southeast Asia,South-eastern Asia
+Costa Rica,CRI,Central America,Latin America and the Caribbean
+Cote d'Ivoire,CIV,Western Africa,Sub-Saharan Africa
+Cuba,CUB,Caribbean,Latin America and the Caribbean
+Curacao,CUW,Caribbean,Latin America and the Caribbean
+Djibouti,DJI,Eastern Africa,Sub-Saharan Africa
+Dominica,DMA,Caribbean,Latin America and the Caribbean
+Dominican Republic,DOM,Caribbean,Latin America and the Caribbean
+"Egypt, Arab Rep.",EGY,Northern Africa,Northern Africa
+El Salvador,SLV,Central America,Latin America and the Caribbean
+Equatorial Guinea,GNQ,Central Africa,Sub-Saharan Africa
+China,CHN,China,Eastern Asia
+Cyprus,CYP,Cyprus,Western Asia
+Czech Republic,CZE,Czech Republic/Slovakia,Eastern Europe
+Slovak Republic,SVK,Czech Republic/Slovakia,Eastern Europe
+Eritrea,ERI,Eastern Africa,Sub-Saharan Africa
+Eswatini,SWZ,Southern Africa,Sub-Saharan Africa
+Ethiopia,ETH,Eastern Africa,Sub-Saharan Africa
+Fiji,FJI,Southeast Asia,Melanesia
+Gabon,GAB,Central Africa,Sub-Saharan Africa
+"Gambia, The",GMB,Western Africa,Sub-Saharan Africa
+Georgia,GEO,Eastern Europe & Central Asia,Western Asia
+Ghana,GHA,Western Africa,Sub-Saharan Africa
+Grenada,GRD,Caribbean,Latin America and the Caribbean
+Guatemala,GTM,Central America,Latin America and the Caribbean
+Guinea,GIN,Western Africa,Sub-Saharan Africa
+Guinea-Bissau,GNB,Western Africa,Sub-Saharan Africa
+Guyana,GUY,Caribbean,Latin America and the Caribbean
+Haiti,HTI,Caribbean,Latin America and the Caribbean
+Honduras,HND,Central America,Latin America and the Caribbean
+India,IND,Southern Asia,Southern Asia
+Indonesia,IDN,Southeast Asia,South-eastern Asia
+Jamaica,JAM,Caribbean,Latin America and the Caribbean
+Kazakhstan,KAZ,Eastern Europe & Central Asia,Central Asia
+Kenya,KEN,Eastern Africa,Sub-Saharan Africa
+Kiribati,KIR,Southeast Asia,Micronesia
+"Korea, Dem. People’s Rep.",PRK,Southeast Asia,Eastern Asia
+Kyrgyz Republic,KGZ,Eastern Europe & Central Asia,Central Asia
+Lao PDR,LAO,Southeast Asia,South-eastern Asia
+Lesotho,LSO,Southern Africa,Sub-Saharan Africa
+Liberia,LBR,Western Africa,Sub-Saharan Africa
+Libya,LBY,Northern Africa,Northern Africa
+Madagascar,MDG,Eastern Africa,Sub-Saharan Africa
+Malawi,MWI,Eastern Africa,Sub-Saharan Africa
+Maldives,MDV,Southern Asia,Southern Asia
+Mali,MLI,Western Africa,Sub-Saharan Africa
+Marshall Islands,MHL,Southeast Asia,Micronesia
+Albania,ALB,EE12,Southern Europe
+Bosnia and Herzegovina,BIH,EE12,Southern Europe
+Bulgaria,BGR,EE12,Eastern Europe
+Croatia,HRV,EE12,Southern Europe
+Hungary,HUN,EE12,Eastern Europe
+Kosovo,XKX,EE12,Eastern Europe
+"Macedonia, FYR",MKD,EE12,Southern Europe
+Malta,MLT,EE12,Southern Europe
+Montenegro,MNE,EE12,Southern Europe
+Romania,ROU,EE12,Eastern Europe
+Serbia,SRB,EE12,Southern Europe
+Slovenia,SVN,EE12,Southern Europe
+France,FRA,France,Western Europe
+Germany,DEU,Germany,Western Europe
+Greece,GRC,Greece,Southern Europe
+"Hong Kong SAR, China",HKG,Hong Kong,Eastern Asia
+"Macao SAR, China",MAC,Hong Kong,Eastern Asia
+"Iran, Islamic Rep.",IRN,"Iran, Islamic Rep.",Southern Asia
+Iraq,IRQ,Iraq,Western Asia
+Israel,ISR,Israel,Western Asia
+Italy,ITA,Italy,Southern Europe
+Japan,JPN,Japan,Eastern Asia
+Jordan,JOR,Jordan,Western Asia
+"Korea, Rep.",KOR,"Korea, Rep.",Eastern Asia
+Kuwait,KWT,Kuwait,Western Asia
+St. Martin (French part),MAF,Latin America and the Caribbean,Latin America and the Caribbean
+Virgin Islands (U.S.),VIR,Latin America and the Caribbean,Latin America and the Caribbean
+Lebanon,LBN,Lebanon,Western Asia
+Brunei Darussalam,BRN,Malaysia,South-eastern Asia
+Malaysia,MYS,Malaysia,South-eastern Asia
+New Caledonia,NCL,Melanesia,Melanesia
+Mexico,MEX,Mexico,Latin America and the Caribbean
+Guam,GUM,Micronesia,Micronesia
+Northern Mariana Islands,MNP,Micronesia,Micronesia
+Monaco,MCO,Monaco,Western Europe
+Netherlands,NLD,Netherlands,Western Europe
+Denmark,DNK,Nordic Region,Northern Europe
+Finland,FIN,Nordic Region,Northern Europe
+Iceland,ISL,Nordic Region,Northern Europe
+Norway,NOR,Nordic Region,Northern Europe
+Sweden,SWE,Nordic Region,Northern Europe
+Mauritania,MRT,Western Africa,Sub-Saharan Africa
+Mauritius,MUS,Eastern Africa,Sub-Saharan Africa
+"Micronesia, Fed. Sts.",FSM,Southeast Asia,Micronesia
+Moldova,MDA,Eastern Europe & Central Asia,Eastern Europe
+Mongolia,MNG,Eastern Europe & Central Asia,Eastern Asia
+Montserrat,MSR,Caribbean,Latin America and the Caribbean
+Greenland,GRL,Northern America,Northern America
+Faroe Islands,FRO,Northern Europe,Northern Europe
+Isle of Man,IMN,Northern Europe,Northern Europe
+Oman,OMN,Oman,Western Asia
+Estonia,EST,Poland & The Baltics,Northern Europe
+Latvia,LVA,Poland & The Baltics,Northern Europe
+Lithuania,LTU,Poland & The Baltics,Northern Europe
+Poland,POL,Poland & The Baltics,Eastern Europe
+American Samoa,ASM,Polynesia,Polynesia
+French Polynesia,PYF,Polynesia,Polynesia
+Portugal,PRT,Portugal,Southern Europe
+Puerto Rico,PRI,Puerto Rico,Latin America and the Caribbean
+Qatar,QAT,Qatar,Western Asia
+Russian Federation,RUS,Russia,Eastern Europe
+Saudi Arabia,SAU,Saudi Arabia,Western Asia
+Singapore,SGP,Singapore,South-eastern Asia
+Morocco,MAR,Northern Africa,Northern Africa
+Mozambique,MOZ,Eastern Africa,Sub-Saharan Africa
+Myanmar,MMR,Southeast Asia,South-eastern Asia
+Namibia,NAM,Southern Africa,Sub-Saharan Africa
+Nauru,NRU,Southeast Asia,South-eastern Asia
+Nepal,NPL,Southern Asia,Southern Asia
+Nicaragua,NIC,Central America,Latin America and the Caribbean
+Niger,NER,Western Africa,Sub-Saharan Africa
+Nigeria,NGA,Western Africa,Sub-Saharan Africa
+Pakistan,PAK,Eastern Europe & Central Asia,Southern Asia
+Palau,PLW,Southeast Asia,Micronesia
+Panama,PAN,Central America,Latin America and the Caribbean
+Papua New Guinea,PNG,Southeast Asia,Melanesia
+Philippines,PHL,Southeast Asia,South-eastern Asia
+Rwanda,RWA,Eastern Africa,Sub-Saharan Africa
+Samoa,WSM,Southeast Asia,Polynesia
+Sao Tome and Principe,STP,Central Africa,Sub-Saharan Africa
+Senegal,SEN,Western Africa,Sub-Saharan Africa
+Seychelles,SYC,Eastern Africa,Sub-Saharan Africa
+Sierra Leone,SLE,Western Africa,Sub-Saharan Africa
+Sint Maarten (Dutch part),SXM,Caribbean,Latin America and the Caribbean
+Solomon Islands,SLB,Southeast Asia,Melanesia
+Somalia,SOM,Eastern Africa,Sub-Saharan Africa
+South Africa,ZAF,Southern Africa,Sub-Saharan Africa
+South Sudan,SSD,Eastern Africa,Sub-Saharan Africa
+Sri Lanka,LKA,Southern Asia,Southern Asia
+St. Kitts and Nevis,KNA,Caribbean,Latin America and the Caribbean
+St. Lucia,LCA,Caribbean,Latin America and the Caribbean
+St. Vincent and the Grenadines,VCT,Caribbean,Latin America and the Caribbean
+Sudan,SDN,Northern Africa,Northern Africa
+Suriname,SUR,Caribbean,Latin America and the Caribbean
+Tajikistan,TJK,Eastern Europe & Central Asia,Central Asia
+Tanzania,TZA,Eastern Africa,Sub-Saharan Africa
+Argentina,ARG,Southern Cone,Latin America and the Caribbean
+Chile,CHL,Southern Cone,Latin America and the Caribbean
+Uruguay,URY,Southern Cone,Latin America and the Caribbean
+San Marino,SMR,Southern Europe,Southern Europe
+Andorra,AND,Spain,Southern Europe
+Spain,ESP,Spain,Southern Europe
+Switzerland,CHE,Switzerland,Western Europe
+Syrian Arab Republic,SYR,Syrian Arab Republic,Western Asia
+"Taiwan, China",TWN,Taiwan,Eastern Asia
+Turkey,TUR,Turkey,Western Asia
+United Arab Emirates,ARE,United Arab Emirates,Western Asia
+Ireland,IRL,United Kingdom/Ireland,Northern Europe
+United Kingdom,GBR,United Kingdom/Ireland,Northern Europe
+United States,USA,United States,Northern America
+Thailand,THA,Southeast Asia,South-eastern Asia
+Timor-Leste,TLS,Southeast Asia,South-eastern Asia
+Togo,TGO,Western Africa,Sub-Saharan Africa
+Tonga,TON,Southeast Asia,Polynesia
+Trinidad and Tobago,TTO,Caribbean,Latin America and the Caribbean
+Tunisia,TUN,Northern Africa,Northern Africa
+Turkmenistan,TKM,Eastern Europe & Central Asia,Central Asia
+Turks and Caicos Islands,TCA,Caribbean,Latin America and the Caribbean
+Tuvalu,TUV,Southeast Asia,Polynesia
+Uganda,UGA,Eastern Africa,Sub-Saharan Africa
+Ukraine,UKR,Eastern Europe & Central Asia,Eastern Europe
+Uzbekistan,UZB,Eastern Europe & Central Asia,Central Asia
+Vanuatu,VUT,Southeast Asia,Melanesia
+Vietnam,VNM,Southeast Asia,South-eastern Asia
+Zambia,ZMB,Eastern Africa,Sub-Saharan Africa
+Zimbabwe,ZWE,Eastern Africa,Sub-Saharan Africa
+Liechtenstein,LIE,Western Europe,Western Europe
+"Yemen, Rep.",YEM,"Yemen, Rep.",Western Asia

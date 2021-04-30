@@ -1,0 +1,148 @@
+{
+
+"Afghanistan":{"country name":"Afghanistan","country id":"AFG","iso2":"AF","iso3":"AFG","gps name":"Afghanistan","":"","":"","":"","":"","country id":"BOL","country name":"Bolivia"},
+
+"Albania":{"country name":"Albania","country id":"ALB","iso2":"AL","iso3":"ALB","gps name":"Albania","":"","":"","":"","":"","country id":"COL","country name":"Colombia"},
+
+"Algeria":{"country name":"Algeria","country id":"DZA","iso2":"DZ","iso3":"DZA","gps name":"Algeria","":"","":"","":"","":"","country id":"ECU","country name":"Ecuador"},
+
+"American Samoa":{"country name":"American Samoa","country id":"ASM","iso2":"NONE","iso3":"ASM","gps name":"American Samoa","":"","":"","":"","":"","country id":"PRY","country name":"Paraguay"},
+
+"Andorra":{"country name":"Andorra","country id":"AND","iso2":"AD","iso3":"AND","gps name":"Andorra","":"","":"","":"","":"","country id":"PER","country name":"Peru"},
+
+"Angola":{"country name":"Angola","country id":"AGO","iso2":"AO","iso3":"AGO","gps name":"Angola","":"","":"","":"","":"","country id":"VEN","country name":"Venezuela"},
+
+"Anguilla":{"country name":"Anguilla","country id":"AIA","iso2":"AI","iso3":"AIA","gps name":"Anguilla","":"","":"","":"","":"","country id":"AUS","country name":"Australia"},
+
+"Antigua and Barbuda":{"country name":"Antigua and Barbuda","country id":"ATG","iso2":"AG","iso3":"ATG","gps name":"Antigua and Barbuda","":"","":"","":"","":"","country id":"NZL","country name":"New Zealand"},
+
+"Argentina":{"country name":"Argentina","country id":"ARG","iso2":"AR","iso3":"ARG","gps name":"Argentina","":"","":"","":"","":"","country id":"AUT","country name":"Austria"},
+
+"Armenia":{"country name":"Armenia","country id":"ARM","iso2":"AM","iso3":"ARM","gps name":"Armenia","":"","":"","":"","":"","country id":"BHR","country name":"Bahrain"},
+
+"Aruba":{"country name":"Aruba","country id":"ABW","iso2":"AW","iso3":"ABW","gps name":"Aruba","":"","":"","":"","":"","country id":"BEL","country name":"Belgium"},
+
+"Australia":{"country name":"Australia","country id":"AUS","iso2":"AU","iso3":"AUS","gps name":"Australia","":"","":"","":"","":"","country id":"LUX","country name":"Luxembourg"},
+
+"Austria":{"country name":"Austria","country id":"AUT","iso2":"AT","iso3":"AUT","gps name":"Austria","":"","":"","":"","":"","country id":"BRA","country name":"Brazil"},
+
+"Azerbaijan":{"country name":"Azerbaijan","country id":"AZE","iso2":"AZ","iso3":"AZE","gps name":"Azerbaijan","":"","":"","":"","":"","country id":"CAN","country name":"Canada"},
+
+"Bahamas":{"country name":"Bahamas","country id":"BHS","iso2":"BS","iso3":"BHS","gps name":"Bahamas, The","":"","":" ","":"","":"","country id":"AIA","country name":"Anguilla"},
+
+"Bahamas, The":{"country name":"Bahamas, The","country id":"BHS","iso2":"BS","iso3":"BHS","gps name":"Bahamas, The","":"","":"","":"","":"","country id":"ATG","country name":"Antigua and Barbuda"},
+
+"Bahrain":{"country name":"Bahrain","country id":"BHR","iso2":"BH","iso3":"BHR","gps name":"Bahrain","":"","":"","":"","":"","country id":"ABW","country name":"Aruba"},
+
+"Bangladesh":{"country name":"Bangladesh","country id":"BGD","iso2":"BD","iso3":"BGD","gps name":"Bangladesh","":"","":" ","":"","":"","country id":"BHS","country name":"Bahamas, The"},
+
+"Barbados":{"country name":"Barbados","country id":"BRB","iso2":"BB","iso3":"BRB","gps name":"Barbados","":"","":"","":"","":"","country id":"BRB","country name":"Barbados"},
+
+"Belarus":{"country name":"Belarus","country id":"BLR","iso2":"BY","iso3":"BLR","gps name":"Belarus","":"","":"","":"","":"","country id":"BMU","country name":"Bermuda"},
+
+"Belgium":{"country name":"Belgium","country id":"BEL","iso2":"BE","iso3":"BEL","gps name":"Belgium","":"","":"","":"","":"","country id":"VGB","country name":"British Virgin Islands"},
+
+"Belize":{"country name":"Belize","country id":"BLZ","iso2":"BZ","iso3":"BLZ","gps name":"Belize","":"","":"","":"","":"","country id":"CYM","country name":"Cayman Islands"},
+
+"Benin":{"country name":"Benin","country id":"BEN","iso2":"BJ","iso3":"BEN","gps name":"Benin","":"","":"","":"","":"","country id":"CUB","country name":"Cuba"},
+
+"Bermuda":{"country name":"Bermuda","country id":"BMU","iso2":"BM","iso3":"BMU","gps name":"Bermuda","":"","":"","":"","":"","country id":"CUW","country name":"Curacao"},
+
+"Bhutan":{"country name":"Bhutan","country id":"BTN","iso2":"BT","iso3":"BTN","gps name":"Bhutan","":"","":"","":"","":"","country id":"DMA","country name":"Dominica"},
+
+"Bolivia":{"country name":"Bolivia","country id":"BOL","iso2":"BO","iso3":"BOL","gps name":"Bolivia","":"","":"","":"","":"","country id":"DOM","country name":"Dominican Republic"},
+
+"Bonaire":{"country name":"Bonaire","country id":"NLD","iso2":"NL","iso3":"NLD","gps name":"Netherlands","":"","":"","":"","":"","country id":"GRD","country name":"Grenada"},
+
+"Bosnia and Herzegovina":{"country name":"Bosnia and Herzegovina","country id":"BIH","iso2":"BA","iso3":"BIH","gps name":"Bosnia and Herzegovina","":"","":"","":"","":"","country id":"GUY","country name":"Guyana"},
+
+"Botswana":{"country name":"Botswana","country id":"BWA","iso2":"BW","iso3":"BWA","gps name":"Botswana","":"","":"","":"","":"","country id":"HTI","country name":"Haiti"},
+
+"Brazil":{"country name":"Brazil","country id":"BRA","iso2":"BR","iso3":"BRA","gps name":"Brazil","":"","":"","":"","":"","country id":"JAM","country name":"Jamaica"},
+
+"British Virgin Islands":{"country name":"British Virgin Islands","country id":"VGB","iso2":"","iso3":"VGB","gps name":"British Virgin Islands","":"","":"","":"","":"","country id":"MSR","country name":"Montserrat"},
+
+"Brunei":{"country name":"Brunei","country id":"BRN","iso2":"BN","iso3":"BRN","gps name":"Brunei Darussalam","":"","":"","":"","":"","country id":"SXM","country name":"Sint Maarten (Dutch part)"},
+
+"Brunei Darussalam":{"country name":"Brunei Darussalam","country id":"BRN","iso2":"BN","iso3":"BRN","gps name":"Brunei Darussalam","":"","":"","":"","":"","country id":"KNA","country name":"St. Kitts and Nevis"},
+
+"Bulgaria":{"country name":"Bulgaria","country id":"BGR","iso2":"BG","iso3":"BGR","gps name":"Bulgaria","":"","":"","":"","":"","country id":"LCA","country name":"St. Lucia"},
+
+"Burkina Faso":{"country name":"Burkina Faso","country id":"BFA","iso2":"BF","iso3":"BFA","gps name":"Burkina Faso","":"","":"","":"","":"","country id":"VCT","country name":"St. Vincent and the Grenadines"},
+
+"Burma":{"country name":"Burma","country id":"MMR","iso2":"MM","iso3":"MMR","gps name":"Myanmar","":"","":"","":"","":"","country id":"SUR","country name":"Suriname"},
+
+"Burundi":{"country name":"Burundi","country id":"BDI","iso2":"BI","iso3":"BDI","gps name":"Burundi","":"","":"","":"","":"","country id":"TTO","country name":"Trinidad and Tobago"},
+
+"Cabo Verde":{"country name":"Cabo Verde","country id":"CPV","iso2":"CV","iso3":"CPV","gps name":"Cabo Verde","":"","":"","":"","":"","country id":"TCA","country name":"Turks and Caicos Islands"},
+
+"Cambodia":{"country name":"Cambodia","country id":"KHM","iso2":"KH","iso3":"KHM","gps name":"Cambodia","":"","":"","":"","":"","country id":"AGO","country name":"Angola"},
+
+"CAMBODIE":{"country name":"CAMBODIE","country id":"KHM","iso2":"KH","iso3":"KHM","gps name":"Cambodia","":"","":"","":"","":"","country id":"CMR","country name":"Cameroon"},
+
+"Cameroon":{"country name":"Cameroon","country id":"CMR","iso2":"CM","iso3":"CMR","gps name":"Cameroon","":"","":"","":"","":"","country id":"CAF","country name":"Central African Republic"},
+
+"Canada":{"country name":"Canada","country id":"CAN","iso2":"CA","iso3":"CAN","gps name":"Canada","":"","":"","":"","":"","country id":"TCD","country name":"Chad"},
+
+"Cape Verde":{"country name":"Cape Verde","country id":"CPV","iso2":"CV","iso3":"CPV","gps name":"Cabo Verde","":"","":"","":"","":"","country id":"COD","country name":"Congo, Dem. Rep."},
+
+"CAR":{"country name":"CAR","country id":"CAF","iso2":"CF","iso3":"CAF","gps name":"Central African Republic","":"","":"","":"","":"","country id":"COG","country name":"Congo, Rep."},
+
+"Caribbean Regulatory System (CRS)":{"country name":"Caribbean Regulatory System (CRS)","country id":"CRS","iso2":"","iso3":"CRS","":"","":"","":"","":"","country id":"GNQ","country name":"Equatorial Guinea"},
+
+"Cayman Islands":{"country name":"Cayman Islands","country id":"CYM","iso2":"KY","iso3":"CYM","gps name":"Cayman Islands","":"","":"","":"","":"","country id":"GAB","country name":"Gabon"},
+
+"Central African Rep.":{"country name":"Central African Rep.","country id":"CAF","iso2":"CF","iso3":"CAF","gps name":"Central African Republic","":"","":"","":"","":"","country id":"STP","country name":"Sao Tome and Principe"},
+
+"Central African Republic":{"country name":"Central African Republic","country id":"CAF","iso2":"CF","iso3":"CAF","gps name":"Central African Republic","":"","":"","":"","":"","country id":"BLZ","country name":"Belize"},
+
+"Chad":{"country name":"Chad","country id":"TCD","iso2":"TD","iso3":"TCD","gps name":"Chad","":"","":"","":"","":"","country id":"CRI","country name":"Costa Rica"},
+
+"Chile":{"country name":"Chile","country id":"CHL","iso2":"CL","iso3":"CHL","gps name":"Chile","":"","":"","":"","":"","country id":"SLV","country name":"El Salvador"},
+
+"Chile Patheon":{"country name":"Chile Patheon","country id":"CHL","iso2":"CL","iso3":"CHL","gps name":"Chile","":"","":"","":"","":"","country id":"GTM","country name":"Guatemala"},
+
+"Chile Rottendorf":{"country name":"Chile Rottendorf","country id":"CHL","iso2":"CL","iso3":"CHL","gps name":"Chile","":"","":"","":"","":"","country id":"HND","country name":"Honduras"},
+
+"China":{"country name":"China","country id":"CHN","iso2":"CN","iso3":"CHN","gps name":"China","":"","":"","":"","":"","country id":"NIC","country name":"Nicaragua"},
+
+"China IDL CTA":{"country name":"China IDL CTA","country id":"CHN","iso2":"CN","iso3":"CHN","gps name":"China","":"","":"","":"","":"","country id":"PAN","country name":"Panama"},
+
+"China IDL CTA --> NDA":{"country name":"China IDL CTA --> NDA","country id":"CHN","iso2":"CN","iso3":"CHN","gps name":"China","":"","":"","":"","":"","country id":"CHN","country name":"China"},
+
+"China IDL-CTA with CSR":{"country name":"China IDL-CTA with CSR","country id":"CHN","iso2":"CN","iso3":"CHN","gps name":"China","":"","":"","":"","":"","country id":"CYP","country name":"Cyprus"},
+
+"China IDL-MRCT":{"country name":"China IDL-MRCT","country id":"CHN","iso2":"CN","iso3":"CHN","gps name":"China","":"","":"","":"","":"","country id":"CZE","country name":"Czech Republic"},
+
+"China MRCT":{"country name":"China MRCT","country id":"CHN","iso2":"CN","iso3":"CHN","gps name":"China","":"","":"","":"","":"","country id":"SVK","country name":"Slovak Republic"},
+
+"Colombia":{"country name":"Colombia","country id":"COL","iso2":"CO","iso3":"COL","gps name":"Colombia","":"","":"","":"","":"","country id":"BDI","country name":"Burundi"},
+
+"Comoros":{"country name":"Comoros","country id":"COM","iso2":"KM","iso3":"COM","gps name":"Comoros","":"","":"","":"","":"","country id":"COM","country name":"Comoros"},
+
+"CONGO":{"country name":"CONGO","country id":"COD","iso2":"CD","iso3":"COD","gps name":"Congo, Dem. Rep.","":"","":"","":"","":"","country id":"DJI","country name":"Djibouti"},
+
+"Congo (Brazzaville)":{"country name":"Congo (Brazzaville)","country id":"COG","iso2":"CG","iso3":"COG","gps name":"Congo, Rep.","":"","":"","":"","":"","country id":"ERI","country name":"Eritrea"},
+
+"Congo (DRC)":{"country name":"Congo (DRC)","country id":"COD","iso2":"CD","iso3":"COD","gps name":"Congo, Dem. Rep.","":"","":"","":"","":"","country id":"ETH","country name":"Ethiopia"},
+
+"Congo (Kinshasa)":{"country name":"Congo (Kinshasa)","country id":"COD","iso2":"CD","iso3":"COD","gps name":"Congo, Dem. Rep.","":"","":"","":"","":"","country id":"KEN","country name":"Kenya"},
+
+"Congo, Dem Rep of the":{"country name":"Congo, Dem Rep of the","country id":"COD","iso2":"CD","iso3":"COD","gps name":"Congo, Dem. Rep.","":"","":"","":"","":"","country id":"MDG","country name":"Madagascar"},
+
+"Congo, Dem. Rep.":{"country name":"Congo, Dem. Rep.","country id":"COD","iso2":"CD","iso3":"COD","gps name":"Congo, Dem. Rep.","":"","":"","":"","":"","country id":"MWI","country name":"Malawi"},
+
+"Congo, Rep.":{"country name":"Congo, Rep.","country id":"COG","iso2":"CG","iso3":"COG","gps name":"Congo, Rep.","":"","":"","":"","":"","country id":"MUS","country name":"Mauritius"},
+
+"Congo-Brazzaville":{"country name":"Congo-Brazzaville","country id":"COG","iso2":"CG","iso3":"COG","gps name":"Congo, Rep.","":"","":"","":"","":"","country id":"MOZ","country name":"Mozambique"},
+
+"Costa Rica":{"country name":"Costa Rica","country id":"CRI","iso2":"CR","iso3":"CRI","gps name":"Costa Rica","":"","":"","":"","":"","country id":"RWA","country name":"Rwanda"},
+
+"Costa Rica Patheon":{"country name":"Costa Rica Patheon","country id":"CRI","iso2":"CR","iso3":"CRI","gps name":"Costa Rica","":"","":"","":"","":"","country id":"SYC","country name":"Seychelles"},
+
+"Cote d`Ivoire":{"country name":"Cote d`Ivoire","country id":"CIV","iso2":"CI","iso3":"CIV","gps name":"Cote d'Ivoire","":"","":"","":"","":"","country id":"SOM","country name":"Somalia"},
+
+"Cote d'Ivoire":{"country name":"Cote d'Ivoire","country id":"CIV","iso2":"CI","iso3":"CIV","gps name":"Cote d'Ivoire","":"","":"","":"","":"","country id":"SSD","country name":"South Sudan"},
+
+"Croatia":{"country name":"Croatia","country id":"HRV","iso2":"HR","iso3":"HRV","gps name":"Croatia","":"","":"","":"","":"","country id":"TZA","country name":"Tanzania"},
+

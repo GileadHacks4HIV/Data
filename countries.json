@@ -1,0 +1,440 @@
+{
+
+"Bolivia":{"Title":"Bolivia","country id":"BOL","sub_region":"Andean","UN subregion":"Latin America and the Caribbean"},
+
+"Colombia":{"Title":"Colombia","country id":"COL","sub_region":"Andean","UN subregion":"Latin America and the Caribbean"},
+
+"Ecuador":{"Title":"Ecuador","country id":"ECU","sub_region":"Andean","UN subregion":"Latin America and the Caribbean"},
+
+"Paraguay":{"Title":"Paraguay","country id":"PRY","sub_region":"Andean","UN subregion":"Latin America and the Caribbean"},
+
+"Peru":{"Title":"Peru","country id":"PER","sub_region":"Andean","UN subregion":"Latin America and the Caribbean"},
+
+"Venezuela":{"Title":"Venezuela","country id":"VEN","sub_region":"Andean","UN subregion":"Latin America and the Caribbean"},
+
+"Australia":{"Title":"Australia","country id":"AUS","sub_region":"Australia/New Zeland","UN subregion":"Australia and New Zealand"},
+
+"New Zealand":{"Title":"New Zealand","country id":"NZL","sub_region":"Australia/New Zeland","UN subregion":"Australia and New Zealand"},
+
+"Austria":{"Title":"Austria","country id":"AUT","sub_region":"Austria","UN subregion":"Western Europe"},
+
+"Bahrain":{"Title":"Bahrain","country id":"BHR","sub_region":"Bahrain","UN subregion":"Western Asia"},
+
+"Belgium":{"Title":"Belgium","country id":"BEL","sub_region":"Belgium & Luxembourg","UN subregion":"Western Europe"},
+
+"Luxembourg":{"Title":"Luxembourg","country id":"LUX","sub_region":"Belgium & Luxembourg","UN subregion":"Western Europe"},
+
+"Brazil":{"Title":"Brazil","country id":"BRA","sub_region":"Brazil","UN subregion":"Latin America and the Caribbean"},
+
+"Canada":{"Title":"Canada","country id":"CAN","sub_region":"Canada","UN subregion":"Northern America"},
+
+"Afghanistan":{"Title":"Afghanistan","country id":"AFG","sub_region":"Eastern Europe & Central Asia","UN subregion":"Southern Asia"},
+
+"Algeria":{"Title":"Algeria","country id":"DZA","sub_region":"Northern Africa","UN subregion":"Northern Africa"},
+
+"Angola":{"Title":"Angola","country id":"AGO","sub_region":"Central Africa","UN subregion":"Sub-Saharan Africa"},
+
+"Anguilla":{"Title":"Anguilla","country id":"AIA","sub_region":"Caribbean","UN subregion":"Latin America and the Caribbean"},
+
+"Antigua and Barbuda":{"Title":"Antigua and Barbuda","country id":"ATG","sub_region":"Caribbean","UN subregion":"Latin America and the Caribbean"},
+
+"Armenia":{"Title":"Armenia","country id":"ARM","sub_region":"Eastern Europe & Central Asia","UN subregion":"Western Asia"},
+
+"Aruba":{"Title":"Aruba","country id":"ABW","sub_region":"Caribbean","UN subregion":"Latin America and the Caribbean"},
+
+"Azerbaijan":{"Title":"Azerbaijan","country id":"AZE","sub_region":"Eastern Europe & Central Asia","UN subregion":"Western Asia"},
+
+"Bahamas, The":{"Title":"Bahamas, The","country id":"BHS","sub_region":"Caribbean","UN subregion":"Latin America and the Caribbean"},
+
+"Bangladesh":{"Title":"Bangladesh","country id":"BGD","sub_region":"Southern Asia","UN subregion":"Southern Asia"},
+
+"Barbados":{"Title":"Barbados","country id":"BRB","sub_region":"Caribbean","UN subregion":"Latin America and the Caribbean"},
+
+"Belarus":{"Title":"Belarus","country id":"BLR","sub_region":"Eastern Europe & Central Asia","UN subregion":"Eastern Europe"},
+
+"Belize":{"Title":"Belize","country id":"BLZ","sub_region":"Central America","UN subregion":"Latin America and the Caribbean"},
+
+"Benin":{"Title":"Benin","country id":"BEN","sub_region":"Western Africa","UN subregion":"Sub-Saharan Africa"},
+
+"Bermuda":{"Title":"Bermuda","country id":"BMU","sub_region":"Caribbean","UN subregion":"Northern America"},
+
+"Bhutan":{"Title":"Bhutan","country id":"BTN","sub_region":"Southern Asia","UN subregion":"Southern Asia"},
+
+"Botswana":{"Title":"Botswana","country id":"BWA","sub_region":"Southern Africa","UN subregion":"Sub-Saharan Africa"},
+
+"British Virgin Islands":{"Title":"British Virgin Islands","country id":"VGB","sub_region":"Caribbean","UN subregion":"Latin America and the Caribbean"},
+
+"Burkina Faso":{"Title":"Burkina Faso","country id":"BFA","sub_region":"Western Africa","UN subregion":"Sub-Saharan Africa"},
+
+"Burundi":{"Title":"Burundi","country id":"BDI","sub_region":"Eastern Africa","UN subregion":"Sub-Saharan Africa"},
+
+"Cabo Verde":{"Title":"Cabo Verde","country id":"CPV","sub_region":"Western Africa","UN subregion":"Sub-Saharan Africa"},
+
+"Cambodia":{"Title":"Cambodia","country id":"KHM","sub_region":"Southeast Asia","UN subregion":"South-eastern Asia"},
+
+"Cameroon":{"Title":"Cameroon","country id":"CMR","sub_region":"Central Africa","UN subregion":"Sub-Saharan Africa"},
+
+"Cayman Islands":{"Title":"Cayman Islands","country id":"CYM","sub_region":"Caribbean","UN subregion":"Latin America and the Caribbean"},
+
+"Central African Republic":{"Title":"Central African Republic","country id":"CAF","sub_region":"Central Africa","UN subregion":"Sub-Saharan Africa"},
+
+"Chad":{"Title":"Chad","country id":"TCD","sub_region":"Central Africa","UN subregion":"Sub-Saharan Africa"},
+
+"Comoros":{"Title":"Comoros","country id":"COM","sub_region":"Eastern Africa","UN subregion":"Sub-Saharan Africa"},
+
+"Congo, Dem. Rep.":{"Title":"Congo, Dem. Rep.","country id":"COD","sub_region":"Central Africa","UN subregion":"Sub-Saharan Africa"},
+
+"Congo, Rep.":{"Title":"Congo, Rep.","country id":"COG","sub_region":"Central Africa","UN subregion":"Sub-Saharan Africa"},
+
+"Cook Islands":{"Title":"Cook Islands","country id":"COK","sub_region":"Southeast Asia","UN subregion":"South-eastern Asia"},
+
+"Costa Rica":{"Title":"Costa Rica","country id":"CRI","sub_region":"Central America","UN subregion":"Latin America and the Caribbean"},
+
+"Cote d'Ivoire":{"Title":"Cote d'Ivoire","country id":"CIV","sub_region":"Western Africa","UN subregion":"Sub-Saharan Africa"},
+
+"Cuba":{"Title":"Cuba","country id":"CUB","sub_region":"Caribbean","UN subregion":"Latin America and the Caribbean"},
+
+"Curacao":{"Title":"Curacao","country id":"CUW","sub_region":"Caribbean","UN subregion":"Latin America and the Caribbean"},
+
+"Djibouti":{"Title":"Djibouti","country id":"DJI","sub_region":"Eastern Africa","UN subregion":"Sub-Saharan Africa"},
+
+"Dominica":{"Title":"Dominica","country id":"DMA","sub_region":"Caribbean","UN subregion":"Latin America and the Caribbean"},
+
+"Dominican Republic":{"Title":"Dominican Republic","country id":"DOM","sub_region":"Caribbean","UN subregion":"Latin America and the Caribbean"},
+
+"Egypt, Arab Rep.":{"Title":"Egypt, Arab Rep.","country id":"EGY","sub_region":"Northern Africa","UN subregion":"Northern Africa"},
+
+"El Salvador":{"Title":"El Salvador","country id":"SLV","sub_region":"Central America","UN subregion":"Latin America and the Caribbean"},
+
+"Equatorial Guinea":{"Title":"Equatorial Guinea","country id":"GNQ","sub_region":"Central Africa","UN subregion":"Sub-Saharan Africa"},
+
+"China":{"Title":"China","country id":"CHN","sub_region":"China","UN subregion":"Eastern Asia"},
+
+"Cyprus":{"Title":"Cyprus","country id":"CYP","sub_region":"Cyprus","UN subregion":"Western Asia"},
+
+"Czech Republic":{"Title":"Czech Republic","country id":"CZE","sub_region":"Czech Republic/Slovakia","UN subregion":"Eastern Europe"},
+
+"Slovak Republic":{"Title":"Slovak Republic","country id":"SVK","sub_region":"Czech Republic/Slovakia","UN subregion":"Eastern Europe"},
+
+"Eritrea":{"Title":"Eritrea","country id":"ERI","sub_region":"Eastern Africa","UN subregion":"Sub-Saharan Africa"},
+
+"Eswatini":{"Title":"Eswatini","country id":"SWZ","sub_region":"Southern Africa","UN subregion":"Sub-Saharan Africa"},
+
+"Ethiopia":{"Title":"Ethiopia","country id":"ETH","sub_region":"Eastern Africa","UN subregion":"Sub-Saharan Africa"},
+
+"Fiji":{"Title":"Fiji","country id":"FJI","sub_region":"Southeast Asia","UN subregion":"Melanesia"},
+
+"Gabon":{"Title":"Gabon","country id":"GAB","sub_region":"Central Africa","UN subregion":"Sub-Saharan Africa"},
+
+"Gambia, The":{"Title":"Gambia, The","country id":"GMB","sub_region":"Western Africa","UN subregion":"Sub-Saharan Africa"},
+
+"Georgia":{"Title":"Georgia","country id":"GEO","sub_region":"Eastern Europe & Central Asia","UN subregion":"Western Asia"},
+
+"Ghana":{"Title":"Ghana","country id":"GHA","sub_region":"Western Africa","UN subregion":"Sub-Saharan Africa"},
+
+"Grenada":{"Title":"Grenada","country id":"GRD","sub_region":"Caribbean","UN subregion":"Latin America and the Caribbean"},
+
+"Guatemala":{"Title":"Guatemala","country id":"GTM","sub_region":"Central America","UN subregion":"Latin America and the Caribbean"},
+
+"Guinea":{"Title":"Guinea","country id":"GIN","sub_region":"Western Africa","UN subregion":"Sub-Saharan Africa"},
+
+"Guinea-Bissau":{"Title":"Guinea-Bissau","country id":"GNB","sub_region":"Western Africa","UN subregion":"Sub-Saharan Africa"},
+
+"Guyana":{"Title":"Guyana","country id":"GUY","sub_region":"Caribbean","UN subregion":"Latin America and the Caribbean"},
+
+"Haiti":{"Title":"Haiti","country id":"HTI","sub_region":"Caribbean","UN subregion":"Latin America and the Caribbean"},
+
+"Honduras":{"Title":"Honduras","country id":"HND","sub_region":"Central America","UN subregion":"Latin America and the Caribbean"},
+
+"India":{"Title":"India","country id":"IND","sub_region":"Southern Asia","UN subregion":"Southern Asia"},
+
+"Indonesia":{"Title":"Indonesia","country id":"IDN","sub_region":"Southeast Asia","UN subregion":"South-eastern Asia"},
+
+"Jamaica":{"Title":"Jamaica","country id":"JAM","sub_region":"Caribbean","UN subregion":"Latin America and the Caribbean"},
+
+"Kazakhstan":{"Title":"Kazakhstan","country id":"KAZ","sub_region":"Eastern Europe & Central Asia","UN subregion":"Central Asia"},
+
+"Kenya":{"Title":"Kenya","country id":"KEN","sub_region":"Eastern Africa","UN subregion":"Sub-Saharan Africa"},
+
+"Kiribati":{"Title":"Kiribati","country id":"KIR","sub_region":"Southeast Asia","UN subregion":"Micronesia"},
+
+"Korea, Dem. People’s Rep.":{"Title":"Korea, Dem. People’s Rep.","country id":"PRK","sub_region":"Southeast Asia","UN subregion":"Eastern Asia"},
+
+"Kyrgyz Republic":{"Title":"Kyrgyz Republic","country id":"KGZ","sub_region":"Eastern Europe & Central Asia","UN subregion":"Central Asia"},
+
+"Lao PDR":{"Title":"Lao PDR","country id":"LAO","sub_region":"Southeast Asia","UN subregion":"South-eastern Asia"},
+
+"Lesotho":{"Title":"Lesotho","country id":"LSO","sub_region":"Southern Africa","UN subregion":"Sub-Saharan Africa"},
+
+"Liberia":{"Title":"Liberia","country id":"LBR","sub_region":"Western Africa","UN subregion":"Sub-Saharan Africa"},
+
+"Libya":{"Title":"Libya","country id":"LBY","sub_region":"Northern Africa","UN subregion":"Northern Africa"},
+
+"Madagascar":{"Title":"Madagascar","country id":"MDG","sub_region":"Eastern Africa","UN subregion":"Sub-Saharan Africa"},
+
+"Malawi":{"Title":"Malawi","country id":"MWI","sub_region":"Eastern Africa","UN subregion":"Sub-Saharan Africa"},
+
+"Maldives":{"Title":"Maldives","country id":"MDV","sub_region":"Southern Asia","UN subregion":"Southern Asia"},
+
+"Mali":{"Title":"Mali","country id":"MLI","sub_region":"Western Africa","UN subregion":"Sub-Saharan Africa"},
+
+"Marshall Islands":{"Title":"Marshall Islands","country id":"MHL","sub_region":"Southeast Asia","UN subregion":"Micronesia"},
+
+"Albania":{"Title":"Albania","country id":"ALB","sub_region":"EE12","UN subregion":"Southern Europe"},
+
+"Bosnia and Herzegovina":{"Title":"Bosnia and Herzegovina","country id":"BIH","sub_region":"EE12","UN subregion":"Southern Europe"},
+
+"Bulgaria":{"Title":"Bulgaria","country id":"BGR","sub_region":"EE12","UN subregion":"Eastern Europe"},
+
+"Croatia":{"Title":"Croatia","country id":"HRV","sub_region":"EE12","UN subregion":"Southern Europe"},
+
+"Hungary":{"Title":"Hungary","country id":"HUN","sub_region":"EE12","UN subregion":"Eastern Europe"},
+
+"Kosovo":{"Title":"Kosovo","country id":"XKX","sub_region":"EE12","UN subregion":"Eastern Europe"},
+
+"Macedonia, FYR":{"Title":"Macedonia, FYR","country id":"MKD","sub_region":"EE12","UN subregion":"Southern Europe"},
+
+"Malta":{"Title":"Malta","country id":"MLT","sub_region":"EE12","UN subregion":"Southern Europe"},
+
+"Montenegro":{"Title":"Montenegro","country id":"MNE","sub_region":"EE12","UN subregion":"Southern Europe"},
+
+"Romania":{"Title":"Romania","country id":"ROU","sub_region":"EE12","UN subregion":"Eastern Europe"},
+
+"Serbia":{"Title":"Serbia","country id":"SRB","sub_region":"EE12","UN subregion":"Southern Europe"},
+
+"Slovenia":{"Title":"Slovenia","country id":"SVN","sub_region":"EE12","UN subregion":"Southern Europe"},
+
+"France":{"Title":"France","country id":"FRA","sub_region":"France","UN subregion":"Western Europe"},
+
+"Germany":{"Title":"Germany","country id":"DEU","sub_region":"Germany","UN subregion":"Western Europe"},
+
+"Greece":{"Title":"Greece","country id":"GRC","sub_region":"Greece","UN subregion":"Southern Europe"},
+
+"Hong Kong SAR, China":{"Title":"Hong Kong SAR, China","country id":"HKG","sub_region":"Hong Kong","UN subregion":"Eastern Asia"},
+
+"Macao SAR, China":{"Title":"Macao SAR, China","country id":"MAC","sub_region":"Hong Kong","UN subregion":"Eastern Asia"},
+
+"Iran, Islamic Rep.":{"Title":"Iran, Islamic Rep.","country id":"IRN","sub_region":"Iran, Islamic Rep.","UN subregion":"Southern Asia"},
+
+"Iraq":{"Title":"Iraq","country id":"IRQ","sub_region":"Iraq","UN subregion":"Western Asia"},
+
+"Israel":{"Title":"Israel","country id":"ISR","sub_region":"Israel","UN subregion":"Western Asia"},
+
+"Italy":{"Title":"Italy","country id":"ITA","sub_region":"Italy","UN subregion":"Southern Europe"},
+
+"Japan":{"Title":"Japan","country id":"JPN","sub_region":"Japan","UN subregion":"Eastern Asia"},
+
+"Jordan":{"Title":"Jordan","country id":"JOR","sub_region":"Jordan","UN subregion":"Western Asia"},
+
+"Korea, Rep.":{"Title":"Korea, Rep.","country id":"KOR","sub_region":"Korea, Rep.","UN subregion":"Eastern Asia"},
+
+"Kuwait":{"Title":"Kuwait","country id":"KWT","sub_region":"Kuwait","UN subregion":"Western Asia"},
+
+"St. Martin (French part)":{"Title":"St. Martin (French part)","country id":"MAF","sub_region":"Latin America and the Caribbean","UN subregion":"Latin America and the Caribbean"},
+
+"Virgin Islands (U.S.)":{"Title":"Virgin Islands (U.S.)","country id":"VIR","sub_region":"Latin America and the Caribbean","UN subregion":"Latin America and the Caribbean"},
+
+"Lebanon":{"Title":"Lebanon","country id":"LBN","sub_region":"Lebanon","UN subregion":"Western Asia"},
+
+"Brunei Darussalam":{"Title":"Brunei Darussalam","country id":"BRN","sub_region":"Malaysia","UN subregion":"South-eastern Asia"},
+
+"Malaysia":{"Title":"Malaysia","country id":"MYS","sub_region":"Malaysia","UN subregion":"South-eastern Asia"},
+
+"New Caledonia":{"Title":"New Caledonia","country id":"NCL","sub_region":"Melanesia","UN subregion":"Melanesia"},
+
+"Mexico":{"Title":"Mexico","country id":"MEX","sub_region":"Mexico","UN subregion":"Latin America and the Caribbean"},
+
+"Guam":{"Title":"Guam","country id":"GUM","sub_region":"Micronesia","UN subregion":"Micronesia"},
+
+"Northern Mariana Islands":{"Title":"Northern Mariana Islands","country id":"MNP","sub_region":"Micronesia","UN subregion":"Micronesia"},
+
+"Monaco":{"Title":"Monaco","country id":"MCO","sub_region":"Monaco","UN subregion":"Western Europe"},
+
+"Netherlands":{"Title":"Netherlands","country id":"NLD","sub_region":"Netherlands","UN subregion":"Western Europe"},
+
+"Denmark":{"Title":"Denmark","country id":"DNK","sub_region":"Nordic Region","UN subregion":"Northern Europe"},
+
+"Finland":{"Title":"Finland","country id":"FIN","sub_region":"Nordic Region","UN subregion":"Northern Europe"},
+
+"Iceland":{"Title":"Iceland","country id":"ISL","sub_region":"Nordic Region","UN subregion":"Northern Europe"},
+
+"Norway":{"Title":"Norway","country id":"NOR","sub_region":"Nordic Region","UN subregion":"Northern Europe"},
+
+"Sweden":{"Title":"Sweden","country id":"SWE","sub_region":"Nordic Region","UN subregion":"Northern Europe"},
+
+"Mauritania":{"Title":"Mauritania","country id":"MRT","sub_region":"Western Africa","UN subregion":"Sub-Saharan Africa"},
+
+"Mauritius":{"Title":"Mauritius","country id":"MUS","sub_region":"Eastern Africa","UN subregion":"Sub-Saharan Africa"},
+
+"Micronesia, Fed. Sts.":{"Title":"Micronesia, Fed. Sts.","country id":"FSM","sub_region":"Southeast Asia","UN subregion":"Micronesia"},
+
+"Moldova":{"Title":"Moldova","country id":"MDA","sub_region":"Eastern Europe & Central Asia","UN subregion":"Eastern Europe"},
+
+"Mongolia":{"Title":"Mongolia","country id":"MNG","sub_region":"Eastern Europe & Central Asia","UN subregion":"Eastern Asia"},
+
+"Montserrat":{"Title":"Montserrat","country id":"MSR","sub_region":"Caribbean","UN subregion":"Latin America and the Caribbean"},
+
+"Greenland":{"Title":"Greenland","country id":"GRL","sub_region":"Northern America","UN subregion":"Northern America"},
+
+"Faroe Islands":{"Title":"Faroe Islands","country id":"FRO","sub_region":"Northern Europe","UN subregion":"Northern Europe"},
+
+"Isle of Man":{"Title":"Isle of Man","country id":"IMN","sub_region":"Northern Europe","UN subregion":"Northern Europe"},
+
+"Oman":{"Title":"Oman","country id":"OMN","sub_region":"Oman","UN subregion":"Western Asia"},
+
+"Estonia":{"Title":"Estonia","country id":"EST","sub_region":"Poland & The Baltics","UN subregion":"Northern Europe"},
+
+"Latvia":{"Title":"Latvia","country id":"LVA","sub_region":"Poland & The Baltics","UN subregion":"Northern Europe"},
+
+"Lithuania":{"Title":"Lithuania","country id":"LTU","sub_region":"Poland & The Baltics","UN subregion":"Northern Europe"},
+
+"Poland":{"Title":"Poland","country id":"POL","sub_region":"Poland & The Baltics","UN subregion":"Eastern Europe"},
+
+"American Samoa":{"Title":"American Samoa","country id":"ASM","sub_region":"Polynesia","UN subregion":"Polynesia"},
+
+"French Polynesia":{"Title":"French Polynesia","country id":"PYF","sub_region":"Polynesia","UN subregion":"Polynesia"},
+
+"Portugal":{"Title":"Portugal","country id":"PRT","sub_region":"Portugal","UN subregion":"Southern Europe"},
+
+"Puerto Rico":{"Title":"Puerto Rico","country id":"PRI","sub_region":"Puerto Rico","UN subregion":"Latin America and the Caribbean"},
+
+"Qatar":{"Title":"Qatar","country id":"QAT","sub_region":"Qatar","UN subregion":"Western Asia"},
+
+"Russian Federation":{"Title":"Russian Federation","country id":"RUS","sub_region":"Russia","UN subregion":"Eastern Europe"},
+
+"Saudi Arabia":{"Title":"Saudi Arabia","country id":"SAU","sub_region":"Saudi Arabia","UN subregion":"Western Asia"},
+
+"Singapore":{"Title":"Singapore","country id":"SGP","sub_region":"Singapore","UN subregion":"South-eastern Asia"},
+
+"Morocco":{"Title":"Morocco","country id":"MAR","sub_region":"Northern Africa","UN subregion":"Northern Africa"},
+
+"Mozambique":{"Title":"Mozambique","country id":"MOZ","sub_region":"Eastern Africa","UN subregion":"Sub-Saharan Africa"},
+
+"Myanmar":{"Title":"Myanmar","country id":"MMR","sub_region":"Southeast Asia","UN subregion":"South-eastern Asia"},
+
+"Namibia":{"Title":"Namibia","country id":"NAM","sub_region":"Southern Africa","UN subregion":"Sub-Saharan Africa"},
+
+"Nauru":{"Title":"Nauru","country id":"NRU","sub_region":"Southeast Asia","UN subregion":"South-eastern Asia"},
+
+"Nepal":{"Title":"Nepal","country id":"NPL","sub_region":"Southern Asia","UN subregion":"Southern Asia"},
+
+"Nicaragua":{"Title":"Nicaragua","country id":"NIC","sub_region":"Central America","UN subregion":"Latin America and the Caribbean"},
+
+"Niger":{"Title":"Niger","country id":"NER","sub_region":"Western Africa","UN subregion":"Sub-Saharan Africa"},
+
+"Nigeria":{"Title":"Nigeria","country id":"NGA","sub_region":"Western Africa","UN subregion":"Sub-Saharan Africa"},
+
+"Pakistan":{"Title":"Pakistan","country id":"PAK","sub_region":"Eastern Europe & Central Asia","UN subregion":"Southern Asia"},
+
+"Palau":{"Title":"Palau","country id":"PLW","sub_region":"Southeast Asia","UN subregion":"Micronesia"},
+
+"Panama":{"Title":"Panama","country id":"PAN","sub_region":"Central America","UN subregion":"Latin America and the Caribbean"},
+
+"Papua New Guinea":{"Title":"Papua New Guinea","country id":"PNG","sub_region":"Southeast Asia","UN subregion":"Melanesia"},
+
+"Philippines":{"Title":"Philippines","country id":"PHL","sub_region":"Southeast Asia","UN subregion":"South-eastern Asia"},
+
+"Rwanda":{"Title":"Rwanda","country id":"RWA","sub_region":"Eastern Africa","UN subregion":"Sub-Saharan Africa"},
+
+"Samoa":{"Title":"Samoa","country id":"WSM","sub_region":"Southeast Asia","UN subregion":"Polynesia"},
+
+"Sao Tome and Principe":{"Title":"Sao Tome and Principe","country id":"STP","sub_region":"Central Africa","UN subregion":"Sub-Saharan Africa"},
+
+"Senegal":{"Title":"Senegal","country id":"SEN","sub_region":"Western Africa","UN subregion":"Sub-Saharan Africa"},
+
+"Seychelles":{"Title":"Seychelles","country id":"SYC","sub_region":"Eastern Africa","UN subregion":"Sub-Saharan Africa"},
+
+"Sierra Leone":{"Title":"Sierra Leone","country id":"SLE","sub_region":"Western Africa","UN subregion":"Sub-Saharan Africa"},
+
+"Sint Maarten (Dutch part)":{"Title":"Sint Maarten (Dutch part)","country id":"SXM","sub_region":"Caribbean","UN subregion":"Latin America and the Caribbean"},
+
+"Solomon Islands":{"Title":"Solomon Islands","country id":"SLB","sub_region":"Southeast Asia","UN subregion":"Melanesia"},
+
+"Somalia":{"Title":"Somalia","country id":"SOM","sub_region":"Eastern Africa","UN subregion":"Sub-Saharan Africa"},
+
+"South Africa":{"Title":"South Africa","country id":"ZAF","sub_region":"Southern Africa","UN subregion":"Sub-Saharan Africa"},
+
+"South Sudan":{"Title":"South Sudan","country id":"SSD","sub_region":"Eastern Africa","UN subregion":"Sub-Saharan Africa"},
+
+"Sri Lanka":{"Title":"Sri Lanka","country id":"LKA","sub_region":"Southern Asia","UN subregion":"Southern Asia"},
+
+"St. Kitts and Nevis":{"Title":"St. Kitts and Nevis","country id":"KNA","sub_region":"Caribbean","UN subregion":"Latin America and the Caribbean"},
+
+"St. Lucia":{"Title":"St. Lucia","country id":"LCA","sub_region":"Caribbean","UN subregion":"Latin America and the Caribbean"},
+
+"St. Vincent and the Grenadines":{"Title":"St. Vincent and the Grenadines","country id":"VCT","sub_region":"Caribbean","UN subregion":"Latin America and the Caribbean"},
+
+"Sudan":{"Title":"Sudan","country id":"SDN","sub_region":"Northern Africa","UN subregion":"Northern Africa"},
+
+"Suriname":{"Title":"Suriname","country id":"SUR","sub_region":"Caribbean","UN subregion":"Latin America and the Caribbean"},
+
+"Tajikistan":{"Title":"Tajikistan","country id":"TJK","sub_region":"Eastern Europe & Central Asia","UN subregion":"Central Asia"},
+
+"Tanzania":{"Title":"Tanzania","country id":"TZA","sub_region":"Eastern Africa","UN subregion":"Sub-Saharan Africa"},
+
+"Argentina":{"Title":"Argentina","country id":"ARG","sub_region":"Southern Cone","UN subregion":"Latin America and the Caribbean"},
+
+"Chile":{"Title":"Chile","country id":"CHL","sub_region":"Southern Cone","UN subregion":"Latin America and the Caribbean"},
+
+"Uruguay":{"Title":"Uruguay","country id":"URY","sub_region":"Southern Cone","UN subregion":"Latin America and the Caribbean"},
+
+"San Marino":{"Title":"San Marino","country id":"SMR","sub_region":"Southern Europe","UN subregion":"Southern Europe"},
+
+"Andorra":{"Title":"Andorra","country id":"AND","sub_region":"Spain","UN subregion":"Southern Europe"},
+
+"Spain":{"Title":"Spain","country id":"ESP","sub_region":"Spain","UN subregion":"Southern Europe"},
+
+"Switzerland":{"Title":"Switzerland","country id":"CHE","sub_region":"Switzerland","UN subregion":"Western Europe"},
+
+"Syrian Arab Republic":{"Title":"Syrian Arab Republic","country id":"SYR","sub_region":"Syrian Arab Republic","UN subregion":"Western Asia"},
+
+"Taiwan, China":{"Title":"Taiwan, China","country id":"TWN","sub_region":"Taiwan","UN subregion":"Eastern Asia"},
+
+"Turkey":{"Title":"Turkey","country id":"TUR","sub_region":"Turkey","UN subregion":"Western Asia"},
+
+"United Arab Emirates":{"Title":"United Arab Emirates","country id":"ARE","sub_region":"United Arab Emirates","UN subregion":"Western Asia"},
+
+"Ireland":{"Title":"Ireland","country id":"IRL","sub_region":"United Kingdom/Ireland","UN subregion":"Northern Europe"},
+
+"United Kingdom":{"Title":"United Kingdom","country id":"GBR","sub_region":"United Kingdom/Ireland","UN subregion":"Northern Europe"},
+
+"United States":{"Title":"United States","country id":"USA","sub_region":"United States","UN subregion":"Northern America"},
+
+"Thailand":{"Title":"Thailand","country id":"THA","sub_region":"Southeast Asia","UN subregion":"South-eastern Asia"},
+
+"Timor-Leste":{"Title":"Timor-Leste","country id":"TLS","sub_region":"Southeast Asia","UN subregion":"South-eastern Asia"},
+
+"Togo":{"Title":"Togo","country id":"TGO","sub_region":"Western Africa","UN subregion":"Sub-Saharan Africa"},
+
+"Tonga":{"Title":"Tonga","country id":"TON","sub_region":"Southeast Asia","UN subregion":"Polynesia"},
+
+"Trinidad and Tobago":{"Title":"Trinidad and Tobago","country id":"TTO","sub_region":"Caribbean","UN subregion":"Latin America and the Caribbean"},
+
+"Tunisia":{"Title":"Tunisia","country id":"TUN","sub_region":"Northern Africa","UN subregion":"Northern Africa"},
+
+"Turkmenistan":{"Title":"Turkmenistan","country id":"TKM","sub_region":"Eastern Europe & Central Asia","UN subregion":"Central Asia"},
+
+"Turks and Caicos Islands":{"Title":"Turks and Caicos Islands","country id":"TCA","sub_region":"Caribbean","UN subregion":"Latin America and the Caribbean"},
+
+"Tuvalu":{"Title":"Tuvalu","country id":"TUV","sub_region":"Southeast Asia","UN subregion":"Polynesia"},
+
+"Uganda":{"Title":"Uganda","country id":"UGA","sub_region":"Eastern Africa","UN subregion":"Sub-Saharan Africa"},
+
+"Ukraine":{"Title":"Ukraine","country id":"UKR","sub_region":"Eastern Europe & Central Asia","UN subregion":"Eastern Europe"},
+
+"Uzbekistan":{"Title":"Uzbekistan","country id":"UZB","sub_region":"Eastern Europe & Central Asia","UN subregion":"Central Asia"},
+
+"Vanuatu":{"Title":"Vanuatu","country id":"VUT","sub_region":"Southeast Asia","UN subregion":"Melanesia"},
+
+"Vietnam":{"Title":"Vietnam","country id":"VNM","sub_region":"Southeast Asia","UN subregion":"South-eastern Asia"},
+
+"Zambia":{"Title":"Zambia","country id":"ZMB","sub_region":"Eastern Africa","UN subregion":"Sub-Saharan Africa"},
+
+"Zimbabwe":{"Title":"Zimbabwe","country id":"ZWE","sub_region":"Eastern Africa","UN subregion":"Sub-Saharan Africa"},
+
+"Liechtenstein":{"Title":"Liechtenstein","country id":"LIE","sub_region":"Western Europe","UN subregion":"Western Europe"},
+
+"Yemen, Rep.":{"Title":"Yemen, Rep.","country id":"YEM","sub_region":"Yemen, Rep.","UN subregion":"Western Asia"}
+
+}
+
